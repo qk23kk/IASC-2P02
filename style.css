@@ -1,6 +1,6 @@
 body {
-    background-color: grey;
-    color: white;
+    background-color: lightblue;
+    color: brown;
     width: fit-content;
     margin: 0 auto;
     text-align: left;
@@ -20,11 +20,11 @@ li {
 }
 
 a {
-    color: orange;
+    color: darkgreen;
     text-decoration: none;
 }
 
 a:hover {
-    color: aqua;
-    text-decoration: overline;
+    color: purple;
+    text-decoration: underline;
 }
